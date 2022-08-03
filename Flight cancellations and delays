@@ -1,1 +1,29 @@
+Insight 1 : 
+What is the relationship between the arrival delay and the distance due to the destination airport ? 
+From the scatter plot in the insight below we can see that the relationship can be cited as a linear regression which makes sense as longer distance may cause higher possibility of delay reasons occurrence. 
+
+Tableau link : https://public.tableau.com/app/profile/nawraz.saeed/viz/Flights1_16592873915850/Sheet1?publish=yes 
+
+
+Design :
+The Scatter plot has been chosen to describe the relation between arrival delay and the distance to visualise the relationship by the trend line to show the type of regression it can use.
+
+
+Insight 2 : 
+What is the airline with the most cancelled flights ?and the relationship between cancelled flights number and the delay caused by the airline? 
+From the insight below we can see that the airline with the highest number of cancellations is Southwest Airline Co (11,660) and the relationship between the cancellations and delays in the same airline is approximately positive as the more delays caused the more cancellations with the airline happen. So Southwest Airline Co has the highest rate of delays.
+Tableau link : https://public.tableau.com/app/profile/nawraz.saeed/viz/Flights1_16592873915850/Sheet2?publish=yes  
+Design :
+The horizontal bar and aggregation has been chosen to describe the relation between number of cancelled flights in each airline and the airline delay to clearly find the descending order of cancelled flights numbers and compare due to the delay .
+
+
+Insight 3 : 
+Which airline has the longest air time?
+From the insight below we can see that the airline with the longest air time is Southwest Airline Co (6,012,415 mins)
+Tableau link : https://public.tableau.com/app/profile/nawraz.saeed/viz/Flights1_16592873915850/Dashboard1?publish=yes 
+
+Design :
+The Packed bubbles have been chosen to visualise different airlines with different colours and different sizes due to the airtime . Then to represent the time numerically with colores shades, I’ve used highlight tables.
+
+
 
